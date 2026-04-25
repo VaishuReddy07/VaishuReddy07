@@ -24,7 +24,8 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with me
 
-Email: [vaishuv150@gmail.com](mailto:vaishuv150@gmail.com)
-💼 LinkedIn: [Vaishu Reddy](https://www.linkedin.com/in/putta-vaishnavi-reddy-701319223)
+* 📧 Email: [vaishuv150@gmail.com](mailto:vaishuv150@gmail.com)
+* 💼 LinkedIn: [Vaishu Reddy](https://www.linkedin.com/in/putta-vaishnavi-reddy-701319223)
+
