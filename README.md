@@ -1,6 +1,6 @@
-# Hi 👋, I'm Vaishu Reddy
+# Hi 👋, I'm Vaishnavi Putta
 
-🎓 Computer Science Student
+🎓 Msc Computer Science Student @ EPita
 💻 Passionate about Android & Web Development
 🌱 Currently learning Java, Spring Boot, and Mobile Apps
 
@@ -26,5 +26,5 @@
 
 ## 📫 Contact Me
 
-* Email: [vaishuv150@gmail.com](mailto:vaishuv150@gmail.com)
-* LinkedIn: www.linkedin.com/in/putta-vaishnavi-reddy-701319223
+Email: [vaishuv150@gmail.com](mailto:vaishuv150@gmail.com)
+💼 LinkedIn: [Vaishu Reddy](https://www.linkedin.com/in/putta-vaishnavi-reddy-701319223)
