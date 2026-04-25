@@ -1,8 +1,9 @@
 # Hi 👋, I'm Vaishnavi Putta
 
-🎓 Msc Computer Science Student @ EPita
-💻 Passionate about Android & Web Development
-🌱 Currently learning Java, Spring Boot, and Mobile Apps
+🎓 MSc Computer Science Student @ EPITA
+💻 Android & Web Developer
+🚀 Passionate about building real-world applications
+
 
 ---
 
