@@ -136,10 +136,10 @@ Responsive dashboard with current conditions, hourly temperatures and five-day f
 
 ---
 
-## 🔎 Try My GitHub Profile Explorer
+## 🔎 Explore My GitHub Profile
 
-Explore any GitHub profile with charts, a repo browser and an activity feed:
-**[Open the live app](https://vaishureddy07.github.io/github-explorer/?user=VaishuReddy07)**
+Browse my public projects and repositories:
+**[View my repositories](https://github.com/VaishuReddy07?tab=repositories)**
 
 ---
 
