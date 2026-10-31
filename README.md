@@ -81,6 +81,16 @@ I'm a Software Engineer with 2 years of enterprise development experience at Cap
 
 ## 📌 Featured Projects
 
+### 🩺 [CareSlot: Appointment Booking & Practice Management](https://github.com/VaishuReddy07/CareSlot)
+A full-stack practice management demo for scheduling appointments and managing everyday clinic workflows.
+
+- 🗓️ React and TypeScript dashboard for appointments, patients, clinical notes, availability and analytics
+- 🔐 Spring Boot and PostgreSQL API with JWT integration, audit events and database-backed protection against overlapping bookings
+- 🤖 Optional Claude API support for visit-note drafts that practitioners review before use
+- 🐳 Docker Compose setup and GitHub Actions checks, including a 25-request booking concurrency check
+
+`Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `GitHub Actions` `Claude API`
+
 ### 🚌 [Urban Move: Smart Mobility Platform](https://github.com/VaishuReddy07?tab=repositories)
 Full-stack platform that helps city transport operators track vehicles, plan routes and manage users through centralized workflows.
 
